@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Finance Dashboard</title>
+</head>
+<body>
+  <h1>Finance Dashboard</h1>
+
+  <h2>Summary</h2>
+  <p>Balance: ₹6800</p>
+  <p>Income: ₹8000</p>
+  <p>Expenses: ₹1200</p>
+
+  <h2>Transactions</h2>
+  <ul>
+    <li>Salary - ₹5000 (Income)</li>
+    <li>Food - ₹200 (Expense)</li>
+    <li>Shopping - ₹1000 (Expense)</li>
+    <li>Freelance - ₹3000 (Income)</li>
+  </ul>
+
+  <h2>Insights</h2>
+  <p>Highest Spending: Shopping</p>
+</body>
+</html>
